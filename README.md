@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Personal projects.<br>👯 I’m looking to collaborate on Next.js & Nuxt.js web apps.<br>🌱 I’m currently learning Vue.js & Nuxt.js.<br>
+🔭 I’m currently working on Personal projects.<br>👯 I’m looking to collaborate on Next.js & Nuxt.js web apps.<br>🌱 I’m currently working on an advnaced inventory/POS management system for businesses ![Bizstock](https://bizstock.net).<br>
 
 
 # 💻 Tech Stack:
